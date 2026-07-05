@@ -9,6 +9,7 @@ const Header = () => {
 
             <nav className='flex justify-around items-center flex-wrap  py-3 gap-3'>
                 <Link href='/abouts'> About</Link>
+                <Link href='/Stories'>Stories</Link>
                 <Link href='/Login'> login</Link>
                 <Link href='/register'> register</Link>
             </nav>
