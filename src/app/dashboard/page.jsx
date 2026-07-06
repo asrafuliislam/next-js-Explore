@@ -1,9 +1,10 @@
+import Title from '@/components/Title';
 import React from 'react';
 
 const dashboard = () => {
     return (
         <div>
-            <h1> dashboard</h1>
+            <Title> Welcome to dashboard </Title>
         </div>
     );
 };

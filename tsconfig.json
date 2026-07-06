@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "src/components/Title.jsx"  ],
+, "src/components/Title.jsx", "src/app/page.jsx", "src/components/Banner.jsx", "src/components/Header.jsx", "src/components/StoryCard.jsx", "src/components/NavLink.jsx", "src/app/dashboard/page.jsx", "src/app/dashboard/Layout.jsx", "src/app/dashboard/page.jsx", "src/app/tutorials/[[...slug]]/page.jsx", "src/app/layout.jsx"  ],
   "exclude": ["node_modules"]
 }
